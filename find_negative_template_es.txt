@@ -1,0 +1,14 @@
+Estimado cliente,
+
+le comunicamos que su cuenta $account no dispone de saldo suficiente para afrontar el pago del ciclo de facturación. Su saldo actual es de $balance EUROS, y en el ciclo actual lleva consumidos $usage EUROS.
+
+Puede solucionarlo haciendo un nuevo ingreso para aumentar su saldo, o bien puede optar por usar una tarjeta de crédito o domiciliación bancaria.
+
+Desde el momento en que recibe el primer aviso de saldo insuficiente nuestros sistemas comenzarán en breve el proceso de suspensión de su cuenta hasta que lo solucione.
+
+No se tome a mal este email, nos encanta trabajar con usted. Este es un email que enviamos para recordarle el pago de nuestros servicios. Debe entender que los retrasos en el pago afecta al funcionamiento de la empresa, e intentamos que nuestra tesorería no sufra por ello. Le agradecemos su comprensión y colaboración.
+
+Quedamos a su disposición para cualquier consulta.
+
+Un saludo,
+El Equipo de Cirrusflex

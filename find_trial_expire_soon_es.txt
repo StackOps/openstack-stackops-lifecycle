@@ -1,0 +1,10 @@
+Estimado usuario,
+
+El periodo de prueba de tu cuenta Cirrusflex '$account' finaliza dentro de $days días.
+
+Si deseas continuar disfrutando de nuestros servicios, sólo tienes que hacer un ingreso para aumentar el saldo de tu cuenta, introducir tu número de tarjeta de crédito o hacer una domiciliación bancaria.
+
+Quedamos a tu disposición para cualquier consulta.
+
+Un saludo,
+El Equipo de Cirrusflex.

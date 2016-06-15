@@ -1,0 +1,10 @@
+Dear user,
+
+The trial period of your Cirrusflex account '$account' ends within $days days.
+
+If you want to continue enjoying our services, just make a deposit to increase the balance in your account, provide your credit card number or make a debit.
+
+We remain at your disposal for any questions.
+
+Regards,
+Cirrusflex Team.

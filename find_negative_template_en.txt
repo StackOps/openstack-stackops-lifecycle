@@ -1,0 +1,14 @@
+Dear customer,
+
+Your account $account does not have sufficient funds to meet the payment of the billing cycle. Your current balance is $balance EUROS, and in the current cycle has been consume $usage EUROS.
+
+You can fix it by making a new deposit to increase your balance, or you can choose to use a credit card or a bank transfer.
+
+From the moment you receive the first notice of insufficient funds our systems start the process of suspending your account until there are enough funds in your account.
+
+Don't be upset because of this email, we love working with you. This is an email we send to remind you the payment of our services. We appreciate your understanding and cooperation.
+
+We remain at your disposal for any questions.
+
+Kindest Regards,
+The Cirrusflex Team

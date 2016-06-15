@@ -1,0 +1,11 @@
+Dear user,
+
+The trial period of your Cirrusflex account '$account' has expired.
+
+The account is suspended now, but if you want to reactivate it, just make a deposit to increase the balance in your account, provide your credit card number or make a debit.
+
+We remain at your disposal for any questions.
+
+Regards,
+Cirrusflex Team.
+
